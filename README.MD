@@ -20,7 +20,7 @@ A proposta deve acontecer de forma simples, seguindo o seguinte fluxo:
 5. Cadastro de Conta e Cartão (Processadora)
 6. Envio de Aprovação/Reprovação por E-mail
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/3kp9o1Bg5pLv7CdncTF5qj"></iframe>
+![Fluxo de Proposta](./fluxo.png)
 
 ## Requisitos
 
