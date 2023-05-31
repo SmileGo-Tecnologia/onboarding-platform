@@ -57,7 +57,9 @@ Será obrigatório o uso de algum serviço de mensageria para a comunicação en
 
 A entrega deve ser feita até 03/06/2023 as 23:59 com a possíbilidade de extensão do prazo por mais 5 horas mediante solicitação por e-mail antes do fim do prazo.
 
-E-mail: victor.ximenis@smilego.com.br
+Suba seu projeto para um repositório Git público de sua escolha e envie o link para os endereços abaixo:
 
-Copiar: leonardo.brito@smilego.com.br, 
+Destinatário: victor.ximenis@smilego.com.br
+
+Cópia: leonardo.brito@smilego.com.br, 
 jativa.cysneiros@baseservice.io
