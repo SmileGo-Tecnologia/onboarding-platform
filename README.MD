@@ -67,6 +67,8 @@ Abaixo, alguns dados obrigatórios para cada proposta
 
 4. Qualquer melhoria, como por exemplo validar se é um CPF verdadeiro, conta positivamente para o seu desafio.
 
+5. A implementação necessáriamente precisa sem em Java com Spring Boot ou algum outro framework como Micronaut e Quarkus.
+
 ## Prazo
 
 A entrega deve ser feita até 03/06/2023 as 23:59 com a possíbilidade de extensão do prazo por mais 5 horas mediante solicitação por e-mail antes do fim do prazo.
