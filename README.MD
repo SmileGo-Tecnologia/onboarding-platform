@@ -22,6 +22,14 @@ A proposta deve acontecer de forma simples, seguindo o seguinte fluxo:
 
 ![Fluxo de Proposta](./fluxo.png)
 
+## Terminologias
+
+### P1 e P2
+São uma abreviação para Política 1 e 2. Isso porque a P1 se faz com dados resumidos podendo ser considerada uma pre-análise. Após aprovação nesta pre-análise é que a proposta pode ter mais dados captados e seguir para análise definitiva.
+
+### Processadora
+É a empresa responsável pela tecnologia de emissão e autorização de transações com cartão de crédito.
+
 ## Requisitos
 
 Abaixo, alguns dados obrigatórios para cada proposta
@@ -49,9 +57,15 @@ Abaixo, alguns dados obrigatórios para cada proposta
 |Renda			 |Numérico           |Renda total                                             |
 
 
-## Development
+## Desenvolvimento
 
-Será obrigatório o uso de algum serviço de mensageria para a comunicação entre os microserviços, podendo ser Kafka, RabbitMQ ou Amazon SQS.
+1. Será obrigatório o uso de algum serviço de mensageria para a comunicação entre os microserviços, podendo ser Kafka, RabbitMQ ou Amazon SQS.
+
+2. As integrações com processadora e motor de crédito devem ser mockados utilizando qualquer serviço de sua livre escolha.
+
+3. Não deixe que seus microserviços degradem pela indisponibilidade das integrações, existem soluções padrão para isso e esperamos que você implemente isso.
+
+4. Qualquer melhoria, como por exemplo validar se é um CPF verdadeiro, conta positivamente para o seu desafio.
 
 ## Prazo
 
