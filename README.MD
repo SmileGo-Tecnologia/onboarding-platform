@@ -1,4 +1,4 @@
-# Onboarding Platform Challange!
+# Onboarding Platform Challenge!
 
 Para sua sorte temos um mega desafio para você, mas não se preocupe, não é tão complexo de implementar quanto parece ;)
 
