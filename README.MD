@@ -5,7 +5,7 @@ Para sua sorte temos um mega desafio para você, mas não se preocupe, não é t
 
 # O problema...
 
-Nossos clientes possuem uma operação de crédito, mas como você já deve saber, conceder crédito a portadores requer uma análise muito rígida dos critérios de avaliação para que se possa tomar uma decisão a cerca de conceder ou não o crédito.
+Nossos clientes possuem uma operação de crédito, mas como você já deve saber, conceder crédito a portadores requer uma análise muito rígida dos critérios de avaliação para que se possa tomar uma decisão acerca de conceder ou não o crédito.
 
 ## O Desafio...
 
