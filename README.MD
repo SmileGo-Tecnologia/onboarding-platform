@@ -71,7 +71,7 @@ Abaixo, alguns dados obrigatórios para cada proposta
 
 ## Prazo
 
-A entrega deve ser feita em até 7 dias a contar a partir do recebimento do desafio, com a possíbilidade de extensão do prazo por mais 12 horas mediante solicitação por e-mail antes do fim do prazo.
+A entrega deve ser feita em até 7 dias a contar a partir do recebimento do desafio, com a possibilidade de extensão do prazo por mais 12 horas mediante solicitação por e-mail antes do fim do prazo.
 
 Suba seu projeto para um repositório Git público de sua escolha e envie o link para os endereços abaixo:
 
